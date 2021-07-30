@@ -6,6 +6,8 @@ Electronics
     - [Sistema Monitorización Colmenas](https://github.com/joelermantraut/sistema_monitorizacion_colmenas)
     - [STM32F4 Project Manager](https://github.com/joelermantraut/stm32f4-project-manager)
     - [STM32F4 Libraries](https://github.com/joelermantraut/librerias-stm32f4)
+ - FPGA
+    - [VHDL Scripts](https://github.com/joelermantraut/vhdl_scripts)
  - Arduino:
     - [Arduino Scripts](https://github.com/joelermantraut/arduino-scripts)
  - Assembler:
@@ -23,6 +25,7 @@ Programming:
 
 Operating Systems
  - Linux
+    - [Arch Linux VirtualBox Installation](https://github.com/joelermantraut/arch-linux-virtualbox-installation)
     - [Arch Post Installation Script](https://github.com/joelermantraut/arch-post-installation-script)
     - [Linux Dotfiles](https://github.com/joelermantraut/dotfiles)
     - [Dmenu Own Compilation](https://github.com/joelermantraut/dmenu-own-compilation)
