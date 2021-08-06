@@ -1,4 +1,4 @@
-👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot of technology and informatics. You can see a bit about it here. Some themes in this profile are:
+👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics. You can see a bit about it here. Some themes in this profile are:
 
 Electronics
  - STM:
