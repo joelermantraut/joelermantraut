@@ -32,6 +32,9 @@ Operating Systems
  - Windows
     - [Windows Dotfiles](https://github.com/joelermantraut/windows_dotfiles)
 
+Others
+ - [Several Type Resources](https://github.com/joelermantraut/several-type-resources)
+
 <!---
 joelermantraut/joelermantraut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
