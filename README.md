@@ -2,6 +2,7 @@
 
 Electronics
  - STM:
+    - [DDS generator](https://github.com/joelermantraut/DDS-generator)
     - [Wattmeter](https://github.com/joelermantraut/stm32f4-wattmeter)
     - [Sistema Monitorización Colmenas](https://github.com/joelermantraut/sistema_monitorizacion_colmenas)
     - [STM32F4 Project Manager](https://github.com/joelermantraut/stm32f4-project-manager)
