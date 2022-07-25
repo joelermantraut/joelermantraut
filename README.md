@@ -21,6 +21,7 @@ Programming:
     - [PSO-JAX Project](https://github.com/joelermantraut/PSO-JAX)
     - [WhatsMatic](https://github.com/joelermantraut/whatsmatic)
     - [Faculty Content Updater](https://github.com/joelermantraut/faculty-content-updater)
+    - [Spotify Playlist Parser](https://github.com/joelermantraut/spotify-playlists-parser)
  - Web Development
     - [HDJ Website](https://github.com/joelermantraut/hdj)
 
