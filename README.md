@@ -65,13 +65,14 @@ Others
         </tr>
         <tr>
             <td>
-                [DDS Generator](https://github.com/joelermantraut/DDS-generator)
+                <a href="https://github.com/joelermantraut/DDS-generator">DDS Generator</a>
             </td>
             <td>
                 [Python Scripts](https://github.com/joelermantraut/python-scripts)
+                <a href="https://github.com/joelermantraut/python-scripts">Python Scripts</a>
             </td>
             <td>
-                [Arch Linux VirtualBox Installation](https://github.com/joelermantraut/arch-linux-virtualbox-installation)
+                <a href="https://github.com/joelermantraut/arch-linux-virtualbox-installation">Arch Linux VirtualBox Installation</a>
             </td>
         </tr>
     </tbody>
