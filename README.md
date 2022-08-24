@@ -68,7 +68,6 @@ Others
                 <a href="https://github.com/joelermantraut/DDS-generator">DDS Generator</a>
             </td>
             <td>
-                [Python Scripts](https://github.com/joelermantraut/python-scripts)
                 <a href="https://github.com/joelermantraut/python-scripts">Python Scripts</a>
             </td>
             <td>
