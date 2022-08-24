@@ -50,7 +50,18 @@ Operating Systems
 Others
  - [Several Type Resources](https://github.com/joelermantraut/several-type-resources)
 
-<!---
-joelermantraut/joelermantraut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+    <tbody>
+        <tr>
+            <td>
+                Electronics
+            </td>
+            <td>
+                Programming
+            </td>
+            <td>
+                Operating Systems
+            </td>
+        </tr>
+    </tbody>
+</table>
