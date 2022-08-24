@@ -1,5 +1,9 @@
-👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics. You can see a bit of it here. Some themes in this profile are:
+👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true)
+
+You can see a bit of it here. Some themes in this profile are:
 Electronics
  - STM:
     - [DDS Generator](https://github.com/joelermantraut/DDS-generator)
