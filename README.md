@@ -1,7 +1,7 @@
 👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
 
-<a align="center" href="https://www.linkedin.com/in/joelermantraut/">
-    <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+<a href="https://www.linkedin.com/in/joelermantraut/">
+    <img align="center" height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true)
