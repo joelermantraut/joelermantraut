@@ -63,5 +63,16 @@ Others
                 Operating Systems
             </td>
         </tr>
+        <tr>
+            <td>
+                [DDS Generator](https://github.com/joelermantraut/DDS-generator)
+            </td>
+            <td>
+                [Python Scripts](https://github.com/joelermantraut/python-scripts)
+            </td>
+            <td>
+                [Arch Linux VirtualBox Installation](https://github.com/joelermantraut/arch-linux-virtualbox-installation)
+            </td>
+        </tr>
     </tbody>
 </table>
