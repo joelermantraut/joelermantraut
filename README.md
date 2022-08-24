@@ -3,6 +3,12 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=joelermantraut)
+
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zluvsand)
+
+![Highlight Profile](https://github-readme-stats.vercel.app/api/pin/?username=joelermantraut&repo=https://github.com/joelermantraut/spotify-playlists-parser)
+
 You can see a bit of it here. Some themes in this profile are:
 Electronics
  - STM:
