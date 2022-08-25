@@ -5,12 +5,14 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/joelermantraut/">LinkedIn</a>
     -
-    <a href="[https://www.linkedin.com/in/joelermantraut/](https://joelermantraut.github.io/je)">Website</a>
+    <a href="https://joelermantraut.github.io/je">Website</a>
 </p>
 
 <h1 align="center">📈 My Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true" alt="Stats"/>
+</p>
 
 <h1 align="center">✏️ My Languages</h1>
 
