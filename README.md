@@ -2,7 +2,11 @@
 
 👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
 
-[LinkedIn](https://www.linkedin.com/in/joelermantraut/) - [Webpage](https://joelermantraut.github.io/je)
+<p align="center">
+    <img src="https://www.linkedin.com/in/joelermantraut/" alt="LinkedIn"/>
+    -
+    <img src="[https://www.linkedin.com/in/joelermantraut/](https://joelermantraut.github.io/je)" alt="Webpage"/>
+</p>
 
 <h1 align="center">📈 My Stats</h1>
 
@@ -66,7 +70,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/joelermantraut/ejercicios-assembler">Assembler Examples</a></td>
-            <td></td>
+            <td><a href="https://github.com/joelermantraut/je">My Own Personal Website</a></td>
             <td></td>
         </tr>
     </tbody>
