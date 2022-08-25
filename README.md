@@ -29,18 +29,18 @@
 <h2 align="center">⚡ Highlights Repos</h2>
 
 <p align="center">
-    <img align="center" src="https://github.com/joelermantraut/sistema_monitorizacion_colmenas" alt="Sistema de Monitorizacion de Colmenas"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelermantraut&repo=sistema_monitorizacion_colmenas" alt="Sistema de Monitorizacion de Colmenas"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github.com/joelermantraut/PSO-JAX" alt="PSO-JAX"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelermantraut&repo=PSO-JAX" alt="PSO-JAX"/>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github.com/joelermantraut/arch-post-installation-script" alt="Arch Post Installation Script"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joelermantraut&repo=arch-post-installation-script" alt="Arch Post Installation Script"/>
 </p>
 
-<h2 align="center">🔑 Abilities</h2>
+<h2 align="center">🔑 Projects</h2>
 
 <table>
     <tbody>
