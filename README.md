@@ -44,5 +44,30 @@
             <td><a href="https://github.com/joelermantraut/PSO-JAX">PSO-JAX Projects</a></td>
             <td><a href="https://github.com/joelermantraut/dotfiles">Linux Dotfiles</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/joelermantraut/stm32f4-project-manager">STM32F4 Project Manager</a></td>
+            <td><a href="https://github.com/joelermantraut/whatsmatic">WhatsMatic</a></td>
+            <td><a href="https://github.com/joelermantraut/dmenu-own-compilation">Dmenu Own Compilation</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/joelermantraut/librerias-stm32f4">STM32F4 Libraries</a></td>
+            <td><a href="https://github.com/joelermantraut/faculty-content-updater">Faculty Content Updater</a></td>
+            <td><a href="https://github.com/joelermantraut/windows_dotfiles">Windows Dotfiles</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/joelermantraut/vhdl_scripts">VHDL Scripts</a></td>
+            <td><a href="https://github.com/joelermantraut/spotify-playlists-parser">Spotify Playlist Parser</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/joelermantraut/arduino-scripts">Arduino Scripts</a></td>
+            <td><a href="https://github.com/joelermantraut/hdj">HDJ Website</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/joelermantraut/ejercicios-assembler">Assembler Examples</a></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
