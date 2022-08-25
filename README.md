@@ -3,9 +3,9 @@
 👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
 
 <p align="center">
-    <img src="https://www.linkedin.com/in/joelermantraut/" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/joelermantraut/"></a>
     -
-    <img src="[https://www.linkedin.com/in/joelermantraut/](https://joelermantraut.github.io/je)" alt="Webpage"/>
+    <a href="[https://www.linkedin.com/in/joelermantraut/](https://joelermantraut.github.io/je)"></a>
 </p>
 
 <h1 align="center">📈 My Stats</h1>
