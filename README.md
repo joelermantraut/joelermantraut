@@ -25,52 +25,24 @@
 <table>
     <tbody>
         <tr>
-            <th>
-                Electronics
-            </th>
-            <th>
-                Programming
-            </th>
-            <th>
-                Operating Systems
-            </th>
+            <th>Electronics</th>
+            <th>Programming</th>
+            <th>Operating Systems</th>
         </tr>
-        
         <tr>
-            <td>
-                <a href="https://github.com/joelermantraut/DDS-generator">DDS Generator</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/python-scripts">Python Scripts</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/arch-linux-virtualbox-installation">Arch Linux VirtualBox Installation</a>
-            </td>
+            <td><a href="https://github.com/joelermantraut/DDS-generator">DDS Generator</a></td>
+            <td><a href="https://github.com/joelermantraut/python-scripts">Python Scripts</a></td>
+            <td><a href="https://github.com/joelermantraut/arch-linux-virtualbox-installation">Arch Linux VirtualBox Installation</a></td>
         </tr>
-        
         <tr>
-            <td>
-                <a href="https://github.com/joelermantraut/stm32f4-wattmeter">Wattmeter</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/automation_scripts">Python Automation Scripts</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/arch-post-installation-script">Arch Post Installation Script</a>
-            </td>
+            <td><a href="https://github.com/joelermantraut/stm32f4-wattmeter">Wattmeter</a></td>
+            <td><a href="https://github.com/joelermantraut/automation_scripts">Python Automation Scripts</a></td>
+            <td><a href="https://github.com/joelermantraut/arch-post-installation-script">Arch Post Installation Script</a></td>
         </tr>
-        
         <tr>
-            <td>
-                <a href="https://github.com/joelermantraut/sistema_monitorizacion_colmenas">Sistema Monitorizacion de Colmenas</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/PSO-JAX">PSO-JAX Projects</a>
-            </td>
-            <td>
-                <a href="https://github.com/joelermantraut/dotfiles">Linux Dotfiles</a>
-            </td>
+            <td><a href="https://github.com/joelermantraut/sistema_monitorizacion_colmenas">Sistema Monitorizacion de Colmenas</a></td>
+            <td><a href="https://github.com/joelermantraut/PSO-JAX">PSO-JAX Projects</a></td>
+            <td><a href="https://github.com/joelermantraut/dotfiles">Linux Dotfiles</a></td>
         </tr>
-        
     </tbody>
 </table>
