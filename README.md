@@ -14,6 +14,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true" alt="Stats"/>
 </p>
 
+<h3 align="center">📊 Contributions</h3>
+
+<p align="center">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=joelermantraut" alt="Contributions"/>
+</p>
+
 <h2 align="center">✏️ My Languages</h2>
 
 <p align="center">
