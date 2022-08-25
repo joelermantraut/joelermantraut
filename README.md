@@ -14,22 +14,17 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true" alt="Stats"/>
 </p>
 
-<h3 align="center">📊 Contributions</h3>
+<h2 align="center">📊 Contributions</h2>
 
 <p align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=joelermantraut" alt="Contributions"/>
+    <img src="https://ghchart.rshah.org/409ba5/joelermantraut" alt="Contribution Chart"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut" alt="Total Contributions"/>
 </p>
 
 <h2 align="center">✏️ My Languages</h2>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelermantraut" alt="Top Languages"/>
-</p>
-
-<h2 align="center">📋 My Contributions</h2>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut" alt="Total Contributions"/>
 </p>
 
 <h2 align="center">⚡ Highlights Repos</h2>
