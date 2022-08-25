@@ -42,6 +42,7 @@
 
 <h2 align="center">🔑 Projects</h2>
 
+<p align="center">
 <table>
     <tbody>
         <tr>
@@ -91,3 +92,4 @@
         </tr>
     </tbody>
 </table>
+</p>
