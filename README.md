@@ -25,15 +25,15 @@
 <table>
     <tbody>
         <tr>
-            <td>
+            <th>
                 Electronics
-            </td>
-            <td>
+            </th>
+            <th>
                 Programming
-            </td>
-            <td>
+            </th>
+            <th>
                 Operating Systems
-            </td>
+            </th>
         </tr>
         
         <tr>
