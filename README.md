@@ -8,25 +8,39 @@
     <a href="https://joelermantraut.github.io/je">Website</a>
 </p>
 
-<h1 align="center">📈 My Stats</h1>
+<h2 align="center">📈 My Stats</h2>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelermantraut&show_icons=true" alt="Stats"/>
 </p>
 
-<h1 align="center">✏️ My Languages</h1>
+<h2 align="center">✏️ My Languages</h2>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=joelermantraut)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelermantraut" alt="Top Languages"/>
+</p>
 
-<h1 align="center">📋 My Contributions</h1>
+<h2 align="center">📋 My Contributions</h2>
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=zluvsand)
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut" alt="Total Contributions"/>
+</p>
 
-<h1 align="center">⚡ Highlights</h1>
+<h2 align="center">⚡ Highlights Repos</h2>
 
-![Highlight Profile](https://github-readme-stats.vercel.app/api/pin/?username=joelermantraut&repo=spotify-playlists-parser)
+<p align="center">
+    <img align="center" src="https://github.com/joelermantraut/sistema_monitorizacion_colmenas" alt="Sistema de Monitorizacion de Colmenas"/>
+</p>
 
-<h1 align="center">🔑 Abilities</h1>
+<p align="center">
+    <img align="center" src="https://github.com/joelermantraut/PSO-JAX" alt="PSO-JAX"/>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github.com/joelermantraut/arch-post-installation-script" alt="Arch Post Installation Script"/>
+</p>
+
+<h2 align="center">🔑 Abilities</h2>
 
 <table>
     <tbody>
