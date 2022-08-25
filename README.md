@@ -42,8 +42,7 @@
 
 <h2 align="center">🔑 Projects</h2>
 
-<p align="center">
-<table>
+<table align="center">
     <tbody>
         <tr>
             <th>Electronics</th>
@@ -92,4 +91,3 @@
         </tr>
     </tbody>
 </table>
-</p>
