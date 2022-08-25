@@ -1,7 +1,8 @@
-<center><h1>Joel Ermantraut</h1></center>
+<h1 align="center">Joel Ermantraut</h1>
 
 👋 Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
 
+LinkedIn
 <a href="https://www.linkedin.com/in/joelermantraut/">
     <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
