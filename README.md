@@ -21,12 +21,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut" alt="Total Contributions"/>
 </p>
 
-<h2 align="center">✏️ My Languages</h2>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelermantraut" alt="Top Languages"/>
-</p>
-
 <h2 align="center">⚡ Highlights Repos</h2>
 
 <p align="center">
@@ -88,6 +82,11 @@
         <tr>
             <td><a href="https://github.com/joelermantraut/ejercicios-assembler">Assembler Examples</a></td>
             <td><a href="https://github.com/joelermantraut/je">My Own Personal Website</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/joelermantraut/win32api-matrix-calc">win32api-matrix-calc</a></td>
             <td></td>
         </tr>
     </tbody>
