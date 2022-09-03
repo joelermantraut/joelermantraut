@@ -86,7 +86,7 @@
         </tr>
         <tr>
             <td></td>
-            <td><a href="https://github.com/joelermantraut/win32api-matrix-calc">C++ Matrix Calc with win32api</a></td>
+            <td><a href="https://github.com/joelermantraut/win32api-matrix-calc">C Matrix Calc with win32api</a></td>
             <td></td>
         </tr>
         <tr>
