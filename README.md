@@ -94,5 +94,10 @@
             <td><a href="https://github.com/joelermantraut/python-node-socket-module">Python Node Socket Module</a></td>
             <td></td>
         </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/joelermantraut/folder-finder">Folder Finder Electron App</a></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
