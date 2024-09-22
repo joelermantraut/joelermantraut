@@ -66,11 +66,7 @@ This is a short sorted summary about my projects in this profile:
 - [Python Node Socket Module](https://github.com/joelermantraut/python-node-socket-module): Módulo para facilitar la comunicación entre Python y Node usando socket.io.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joelermantraut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelermantraut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joelermantraut&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
