@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about technology and informatics.
+Hi!! I’m @joelermantraut, Electronics Engineer in Argentina. Academically, I am teached about electronics, but out of university I have learned a lot about programming and computer science.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hi!! I’m @joelermantraut, engineer student in Argentina. Academically, I am te
 ![](https://github-readme-stats.vercel.app/api?username=joelermantraut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joelermantraut&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelermantraut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joelermantraut&icon=0&color=0)](https://visitcount.itsvg.in)
